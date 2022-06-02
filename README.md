@@ -1,5 +1,5 @@
 # Projet_segmentation_client
-Projet étudiant "en cours": segmentation client (ACP, K-Means, DBscan, k-prototypes...) 
+Projet étudiant: segmentation client (ACP, K-Means, DBscan, k-prototypes...) 
 
 
 Dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce
